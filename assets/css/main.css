@@ -284,7 +284,7 @@ input, select, textarea {
     gap: 20px;
     width: 600px;
     height: 600px;
-    position: relative;
+    position:sticky;
 	box-shadow: white , 10px;
 	
 }
@@ -334,7 +334,7 @@ padding:10px;
     display:block;
     flex-direction: column;
     align-items: center;
-    position:relative;
+    position:absolute;
 	padding-right:110px;
 	font-size: 19px;
 	font: bold, rgb(249, 252, 227);
